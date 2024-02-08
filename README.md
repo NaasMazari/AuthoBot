@@ -1,6 +1,6 @@
-# puppeteer-scraping
-Web Scraper in javascript and puppeteer Library
-This script is designed to download media files from a webpage using Puppeteer. It is particularly useful for extracting media files from specific folders on a webpage.
+# puppeteer-Automation
+
+This script is designed to automate login /logout from a webpage using Puppeteer. It is particularly useful for bot on a webpage.
 
 ## Requirements
 
